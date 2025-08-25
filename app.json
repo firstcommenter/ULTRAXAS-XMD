@@ -76,7 +76,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "2349132095836",
       "required": false 
     },
     "STATUS_REACT_EMOJIS": {
@@ -96,7 +96,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "ultra",
+      "value": "𝗧𝗛𝗘 𝗖𝗨𝗥𝗟𝗬𝗛𝗔𝗜𝗥 𝗚𝗨𝗬 ",
       "required": false
     },
     "SESSION_ID": {
@@ -112,7 +112,7 @@
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
       "value": "",
-      "required": true 
+      "required": false 
     },
     "ANTIDELETE_SENT_INBOX": {
       "description": "Enable anti-delete to be sent inbox (yes/no)",
